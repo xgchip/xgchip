@@ -4,11 +4,13 @@
 
 **做实用的软件，也把代码分享出来。**
 
-[正在做的项目](#-阅读从简-reading-simple) · [所有仓库](https://github.com/xgchip?tab=repositories) · [反馈与交流](https://github.com/xgchip/reading-simple/issues)
+[正在做的项目](#reading-simple) · [所有仓库](https://github.com/xgchip?tab=repositories) · [反馈与交流](https://github.com/xgchip/reading-simple/issues)
 
 </div>
 
 <br>
+
+<a id="reading-simple"></a>
 
 ## 📖 阅读从简 · Reading Simple
 

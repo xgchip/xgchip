@@ -1,10 +1,8 @@
-![XGCHIP · halen / 轩哥](assets/header.svg)
+![XGCHIP · halen / 轩哥](assets/header-xgchip.svg)
 
 <div align="center">
 
 ### 你好，我是 halen，也可以叫我轩哥。
-
-**XGCHIP 是我的品牌，这里是我分享代码与作品的地方。**
 
 从自己的使用需求出发，做一些能用得上、也愿意一直打磨的东西。  
 目前，我在维护两个公开项目：一个让博客更好读，一个让阅读中的想法留下来。

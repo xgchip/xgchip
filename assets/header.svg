@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Debug · xgchip — 把想法做成用得上的工具">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="XGCHIP · halen / 轩哥 — 写代码，也留住文字">
 <rect width="1200" height="320" rx="24" fill="#f4f3eb"/>
 <path d="M780 0H1200V320H960Z" fill="#e5e9db"/>
 <circle cx="1080" cy="65" r="150" fill="none" stroke="#cbd3bd" stroke-width="1"/>
 <circle cx="1080" cy="65" r="195" fill="none" stroke="#cbd3bd" stroke-width="1"/>
-<text x="68" y="75" font-family="monospace" font-size="17" letter-spacing="5" fill="#637555">BUILD · READ · SHARE</text>
-<text x="65" y="160" font-family="Arial,sans-serif" font-size="66" font-weight="700" fill="#28362b">Debug<tspan font-size="27" fill="#74816b"> / xgchip</tspan></text>
-<text x="68" y="224" font-family="sans-serif" font-size="26" fill="#52604d">把想法做成用得上的工具。</text>
+<text x="68" y="75" font-family="monospace" font-size="17" letter-spacing="5" fill="#637555">CREATE · READ · SHARE</text>
+<text x="65" y="160" font-family="Arial,sans-serif" font-size="66" font-weight="700" fill="#28362b">XGCHIP</text>
+<text x="68" y="224" font-family="sans-serif" font-size="26" fill="#52604d">halen / 轩哥 · 写代码，也留住文字。</text>
 <rect x="68" y="260" width="64" height="4" rx="2" fill="#6c805d"/>
 <g transform="translate(920 100) rotate(-8 70 75)"><rect width="134" height="160" rx="12" fill="#fffef8" stroke="#829273" stroke-width="2"/><path d="M24 0V160" stroke="#829273" stroke-width="2"/><path d="M46 44H108M46 63H108M46 82H90" stroke="#abb59c" stroke-width="4" stroke-linecap="round"/><path d="M90 113L100 123L118 102" fill="none" stroke="#6c805d" stroke-width="4" stroke-linecap="round"/></g>
 </svg>

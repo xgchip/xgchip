@@ -5,7 +5,7 @@
 ### 你好，我是 halen，也可以叫我轩哥。
 
 从自己的使用需求出发，做一些能用得上、也愿意一直打磨的东西。  
-目前，我在维护两个公开项目：一个让博客更好读，一个让阅读中的想法留下来。
+目前，我在维护博客主题与阅读工具：让技术资料更好查，让文章更好读，也让阅读中的想法留下来。
 
 [我的作品](#projects) · [所有仓库](https://github.com/xgchip?tab=repositories)
 
@@ -17,14 +17,14 @@
 
 ## 我的作品
 
-| 🖋 MoluRead | 📖 阅读从简 · Reading Simple |
-| :--- | :--- |
-| **让博客回到文字与阅读。** | **让原句和想法待在一起。** |
-| 面向中文博客阅读的 Typecho 主题，基于 HarmonyHues 二次开发。 | 免费开源的原生 Mac EPUB / PDF 阅读器。 |
-| 阅读布局、可视化导航、动态标签云，以及浅色与深色模式。 | 划线与想法、跨书搜索与原文回跳、Markdown 笔记导出。 |
-| `Typecho` · `PHP` · `CSS` · `JavaScript` | `Swift` · `SwiftUI` · `PDFKit` · `WebKit` |
-| [查看主题源码 →](https://github.com/xgchip/MoluRead) · [在线演示 ↗](https://www.ee-nav.com/) | [查看源码 →](https://github.com/xgchip/reading-simple) · [下载安装包 ↓](https://github.com/xgchip/reading-simple/releases/tag/v1.0.0) · [官网 ↗](https://xgchip.github.io/reading-simple/) |
-| CC BY-NC-SA 4.0，保留上游署名及非商业使用条件。 | GPL-3.0，自由使用与修改，分发遵循许可证。 |
+| 🖋 MoluRead | 📖 阅读从简 · Reading Simple | ⚡ elecnotes |
+| :--- | :--- | :--- |
+| **让博客回到文字与阅读。** | **让原句和想法待在一起。** | **让技术文章成为方便查阅的资料。** |
+| 面向中文博客阅读的 Typecho 主题，基于 HarmonyHues 二次开发。 | 免费开源的原生 Mac EPUB / PDF 阅读器。 | 基于 MoluRead 继续开发的电子工程内容主题。 |
+| 阅读布局、可视化导航、动态标签云，以及浅色与深色模式。 | 划线与想法、跨书搜索与原文回跳、Markdown 笔记导出。 | 资料导航与经典卡片双首页、专题目录、工具入口，以及简洁的出版物式排版。 |
+| `Typecho` · `PHP` · `CSS` · `JavaScript` | `Swift` · `SwiftUI` · `PDFKit` · `WebKit` | `Typecho` · `PHP` · `CSS` · `JavaScript` |
+| [查看主题源码 →](https://github.com/xgchip/MoluRead) | [查看源码 →](https://github.com/xgchip/reading-simple) · [下载安装包 ↓](https://github.com/xgchip/reading-simple/releases/tag/v1.0.0) · [官网 ↗](https://xgchip.github.io/reading-simple/) | [在线演示 ↗](https://www.ee-nav.com/) |
+| CC BY-NC-SA 4.0，保留上游署名及非商业使用条件。 | GPL-3.0，自由使用与修改，分发遵循许可证。 | 开发试用中，源码暂未公开。 |
 
 <details>
 <summary>看看「阅读从简」的实际界面</summary>
@@ -46,6 +46,6 @@
 
 ---
 
-欢迎逛逛我的仓库。如果你正在使用 [MoluRead](https://github.com/xgchip/MoluRead/issues) 或 [阅读从简](https://github.com/xgchip/reading-simple/issues)，欢迎留下建议，也欢迎参与改进。
+欢迎逛逛我的仓库。如果你正在使用 MoluRead、阅读从简或 elecnotes，欢迎留下建议，也欢迎参与改进。公开项目的问题可提交至 [MoluRead Issues](https://github.com/xgchip/MoluRead/issues) 或 [阅读从简 Issues](https://github.com/xgchip/reading-simple/issues)。
 
 **XGCHIP · halen / 轩哥**

@@ -42,9 +42,13 @@
 
 基于 Tauri、Vue 和 Rust 的开源桌面客户端，连接 [xiaozhi.me](https://xiaozhi.me) 后台。支持连续语音通话、开口打断、可调停顿自动发送，也可以一键切换为桌面宠物。
 
-每位用户自行注册小智账号并配对，不附带开发者的设备绑定。当前提供 Windows 版本，采用 MIT 许可证。感谢虾哥的 [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 开源项目；界面图片会在下一版 UI 优化后补充。
+每位用户自行注册小智账号并配对，不附带开发者的设备绑定。当前提供 Windows 版本，采用 MIT 许可证。感谢虾哥的 [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 开源项目。v0.4.0 更新了奶油色通话界面、圆形头像光环和暖色聊天气泡。
 
 [查看源码 →](https://github.com/xgchip/xiaozhidesk) · [下载安装包 ↓](https://github.com/xgchip/xiaozhidesk/releases)
+
+<p align="center">
+  <a href="https://github.com/xgchip/xiaozhidesk"><img src="assets/xiaozhidesk-call.png" alt="小智电脑版 v0.4.0 通话界面" width="300" /></a>
+</p>
 
 <br>
 

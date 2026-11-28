@@ -23,8 +23,8 @@
 | 面向中文博客阅读的 Typecho 主题，基于 HarmonyHues 二次开发。 | 免费开源的原生 Mac EPUB / PDF 阅读器。 | 基于 MoluRead 继续开发的电子工程内容主题。 |
 | 阅读布局、可视化导航、动态标签云，以及浅色与深色模式。 | 划线与想法、跨书搜索与原文回跳、Markdown 笔记导出。 | 资料导航与经典卡片双首页、专题目录、工具入口，以及简洁的出版物式排版。 |
 | `Typecho` · `PHP` · `CSS` · `JavaScript` | `Swift` · `SwiftUI` · `PDFKit` · `WebKit` | `Typecho` · `PHP` · `CSS` · `JavaScript` |
-| [查看主题源码 →](https://github.com/xgchip/MoluRead) | [查看源码 →](https://github.com/xgchip/reading-simple) · [下载安装包 ↓](https://github.com/xgchip/reading-simple/releases/tag/v1.0.0) · [官网 ↗](https://xgchip.github.io/reading-simple/) | [在线演示 ↗](https://www.ee-nav.com/) |
-| CC BY-NC-SA 4.0，保留上游署名及非商业使用条件。 | GPL-3.0，自由使用与修改，分发遵循许可证。 | 开发试用中，源码暂未公开。 |
+| [查看主题源码 →](https://github.com/xgchip/MoluRead) | [查看源码 →](https://github.com/xgchip/reading-simple) · [下载安装包 ↓](https://github.com/xgchip/reading-simple/releases/tag/v1.0.0) · [官网 ↗](https://xgchip.github.io/reading-simple/) | [查看主题源码 →](https://github.com/xgchip/elecnotes) · [在线演示 ↗](https://www.ee-nav.com/) |
+| CC BY-NC-SA 4.0，保留上游署名及非商业使用条件。 | GPL-3.0，自由使用与修改，分发遵循许可证。 | CC BY-NC-SA 4.0，保留上游署名及非商业使用条件。 |
 
 <details>
 <summary>看看「阅读从简」的实际界面</summary>
